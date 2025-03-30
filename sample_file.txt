@@ -1,1 +1,2 @@
 This is the initial sample file.
+I am now fixing a bug in this file.
